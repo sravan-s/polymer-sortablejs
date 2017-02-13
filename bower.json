@@ -26,6 +26,6 @@
   ],
   "dependencies": {
     "polymer": "polymer/polymer#^1.6.0",
-    "Sortable": "sortablejs#^1.4.2"
+    "Sortable": "https://github.com/sravan-s/Sortable#clone-feature"
   }
 }
